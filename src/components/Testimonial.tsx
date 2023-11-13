@@ -111,7 +111,7 @@ const Testimonial = () => {
                     <p className="text-xs uppercase text-designColor tracking-wide mb-2">
                       Bound - Trolola
                     </p>
-                    <h3 className="text-2xl font-bold">Jone Duone Joe</h3>
+                    <h3 className="text-2xl font-bold">Demo Client</h3>
                     <p className="text-base tracking-wide text-gray-500">
                       Operation Officer
                     </p>
@@ -126,7 +126,7 @@ const Testimonial = () => {
                           Travel Mobile App Design.
                         </h3>
                         <p className="text-base text-gray-400 mt-3">
-                          via Upwork - Mar 4, 2015 - Aug 30, 2021 test
+                          via Upwork - Mar 4, 2023 - Present  
                         </p>
                       </div>
                       <div className="text-yellow-500 flex gap-1">
@@ -158,7 +158,7 @@ const Testimonial = () => {
                     <p className="text-xs uppercase text-designColor tracking-wide mb-2">
                       Bound - Trolola
                     </p>
-                    <h3 className="text-2xl font-bold">Jone Duone Joe</h3>
+                    <h3 className="text-2xl font-bold">Demo Client</h3>
                     <p className="text-base tracking-wide text-gray-500">
                       Operation Officer
                     </p>
@@ -224,7 +224,7 @@ const Testimonial = () => {
                           Travel Mobile App Design.
                         </h3>
                         <p className="text-base text-gray-400 mt-3">
-                          via Upwork - Mar 4, 2015 - Aug 30, 2021 test
+                          via Upwork - Mar 4, 2023 - Aug 30, 2027 test
                         </p>
                       </div>
                       <div className="text-yellow-500 flex gap-1">
